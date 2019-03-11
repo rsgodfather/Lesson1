@@ -1,0 +1,7 @@
+label {
+    border: 1px solid red;
+    padding: 1px;
+}
+.Block1{
+border-width: 1px 1px 1px 1px; border-style: solid; border-color: black;
+}
