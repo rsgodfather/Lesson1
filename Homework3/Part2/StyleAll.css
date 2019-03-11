@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+ol {
+    color: red;
+}
+.Bluetext {
+    color: blue;
+}
+h2 {
+    color: darkgreen;
+}
+p {
+     text-align: justify;
+ }
+strong {
+    color: red;
+}
+em {
+    color: blue;
+}
+ul {
+    font-style: italic ;
+    color: rosybrown;
+}
