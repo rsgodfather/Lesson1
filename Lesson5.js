@@ -1,6 +1,6 @@
 "use strict";
 
-// var a = prompt('Enter official name of JS');
+// var a = prompt('Enter official namepersonel of JS');
 // if (a != "ECMAscript") {
 //     alert('False - ECMAscript')
 // }

@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e91ca9c-1133-4661-861e-573e1ca3ece6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6Obj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6Obj.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6Obj.js" afterDir="false" />
     </list>
     <list id="8ddb8539-6c80-45da-947e-64ed60d01876" name="Revert: For lesson 2" comment="Patch wizhout XML" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +30,7 @@
         <counts>
           <entry key="css" value="2" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="10" />
+          <entry key="html" value="11" />
           <entry key="iml" value="1" />
           <entry key="js" value="4" />
           <entry key="xml" value="3" />
@@ -49,7 +39,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="11" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
@@ -59,15 +49,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="30" />
-          <entry key="html" value="1672" />
-          <entry key="js" value="1404" />
+          <entry key="html" value="1679" />
+          <entry key="js" value="1848" />
           <entry key="txt" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1672" />
-          <entry key="JavaScript" value="1404" />
+          <entry key="HTML" value="1679" />
+          <entry key="JavaScript" value="1848" />
           <entry key="PLAIN_TEXT" value="79" />
         </counts>
       </usages-collector>
@@ -85,11 +75,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson6Obj.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson5.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -138,9 +137,9 @@
         <option value="$PROJECT_DIR$/Lesson4.css" />
         <option value="$PROJECT_DIR$/Lesson4.html" />
         <option value="$PROJECT_DIR$/Lesson4.js" />
-        <option value="$PROJECT_DIR$/Lesson5.html" />
         <option value="$PROJECT_DIR$/Lesson5.js" />
         <option value="$PROJECT_DIR$/Lesson6Obj.js" />
+        <option value="$PROJECT_DIR$/Lesson5.html" />
       </list>
     </option>
   </component>
@@ -231,7 +230,7 @@
       <workItem from="1551805057394" duration="361000" />
       <workItem from="1551805528430" duration="3751000" />
       <workItem from="1552410215897" duration="5794000" />
-      <workItem from="1552670345247" duration="1063000" />
+      <workItem from="1552670345247" duration="2755000" />
     </task>
     <task id="LOCAL-00001" summary="For lesson 2">
       <created>1551208063400</created>
@@ -244,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20974000" />
+    <option name="totallyTimeSpent" value="22666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,7 +262,7 @@
       <window_info id="Structure" order="1" sideWeight="0.5023148" weight="0.24980237" />
       <window_info id="Favorites" order="2" sideWeight="0.5023148" side_tool="true" weight="0.24980237" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -272,7 +271,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.32919255" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32608697" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32608697" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -359,17 +358,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson5.html">
+    <entry file="file://$PROJECT_DIR$/Lesson6Obj.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="412">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson6Obj.js">
+    <entry file="file://$PROJECT_DIR$/Lesson5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>

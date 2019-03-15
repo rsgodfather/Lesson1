@@ -1,12 +1,46 @@
 "use strict";
-// let name = {};
-// user.name = "Vasya";
+// let namepersonel = {};
+// user.namepersonel = "Vasya";
 // user.surname ="petrov";
-// user.name = "sergey";
-// delete user.name;
+// user.namepersonel = "sergey";
+// delete user.namepersonel;
 // console.log(user);
-let sum = 0;
-for (let name in salaries){
-    sum += salaries(name);
+
+
+// let salaries = {
+//     "Vasa": 100,
+//     "Peta": 300,
+//     "Dasha": 300
+// };
+// }
+// let sum = Infinity, maxpaiddeveloper;
+// for (let namepersonel in salaries){
+//     if (salaries[namepersonel]>sum){
+//     sum += salaries(namepersonel);
+//     maxpaiddeveloper=namepersonel;
+//     }
+//
+// }
+// if(!maxpaiddeveloper){
+//     alert('no personal');
+// }
+// else {
+//     alert(maxpaiddeveloper);
+// }
+// console.log(name);
+
+
+
+function isNumeric(n) {
+    return !isNaN(parseFlout(n)) && isFinite(n);
 }
-console.log(name);
+function multiplyNumeric(obj)
+{
+    for(let prop in obj){
+        if(isNumeric(obj[prop])){
+            obj[prop] *=2;
+        }
+    }
+}
+
+
